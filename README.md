@@ -1,2 +1,5 @@
 # helo-world
-just a repository
+
+Hi,
+
+i'm new here.
